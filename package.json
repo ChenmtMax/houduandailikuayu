@@ -1,0 +1,22 @@
+{
+  "name": "houduandailikuayu",
+  "version": "1.0.0",
+  "description": "后端代理跨域（正向代理）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenmtXB/houduandailikuayu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChenmtXB/houduandailikuayu/issues"
+  },
+  "homepage": "https://github.com/ChenmtXB/houduandailikuayu#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
